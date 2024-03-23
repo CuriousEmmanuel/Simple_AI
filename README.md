@@ -3,3 +3,6 @@
 
 # other requirements
 ### 1.
+# Example 
+### from x ai 
+## https://github.com/xai-org/grok-1
